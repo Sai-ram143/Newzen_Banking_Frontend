@@ -1,0 +1,1 @@
+export default function Transfer(){ return <h2>Transfer Funds</h2> }

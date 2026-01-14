@@ -1,0 +1,1 @@
+export default function Accounts(){ return <h2>All Accounts</h2> }

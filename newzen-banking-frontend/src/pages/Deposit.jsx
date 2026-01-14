@@ -1,0 +1,1 @@
+export default function Deposit(){ return <h2>Deposit Money</h2> }

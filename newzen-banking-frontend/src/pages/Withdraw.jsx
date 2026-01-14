@@ -1,0 +1,1 @@
+export default function Withdraw(){ return <h2>Withdraw Money</h2> }
